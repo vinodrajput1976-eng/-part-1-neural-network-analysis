@@ -44,4 +44,4 @@ Contains evaluation graphs and confusion matrix.
 3. Run notebook.ipynb
 
 ## Author
-Rohini Patil
+Vinod Rajput
